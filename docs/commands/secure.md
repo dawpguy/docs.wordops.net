@@ -14,7 +14,7 @@ Options:
 
 | argument          | description                                                        |
 | ----------------- | ------------------------------------------------------------------ |
-| `--auth`          | Set backend user credentials (user and)                            |
+| `--auth`          | Set backend user credentials (user name and password)                            |
 | `--port`          | Set backend port (default: 22222)                                  |
 | `--ip`            | Set the list of IP(s) allowed to access without authentification   |
 | `--ssh`           | Harden SSH security                                                |
